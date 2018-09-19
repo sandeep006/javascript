@@ -1,0 +1,12 @@
+alert("This is basic Calculater---");
+var number1= +prompt("Enter First number");
+var number2= +prompt("Enter Second number");
+var number3= +prompt("Enter Third number");
+var add= number1+number2+number3;
+var sub= number1-number2-number3;
+var div= number1/number2/number3;
+var mul= number1*number2*number3;
+alert("Addition :"+add);
+alert("Subtraction :"+sub);
+alert("divisition :"+div);
+alert("multiplation :"+mul);
